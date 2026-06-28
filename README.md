@@ -46,5 +46,3 @@
 > "Consistency is more important than perfection."
 
 ---
-
-⭐ From [withshiv-m](https://github.com/withshiv-m)
