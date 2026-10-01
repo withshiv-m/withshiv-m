@@ -12,32 +12,32 @@
 ---
 
 ##  Tech Stack
-### 💻 Languages
+###  Languages
 - C
 - C++
 - Python
 - java
 
-### 🌐 Frontend
+###  Frontend
 - HTML
 - CSS
 - JavaScript
 - React
 
-### ⚙️ Tools
+###  Tools
 - Git
 - GitHub
 - VS Code
 
 ---
 
-## 🌍 Connect with Me
-- 💼 LinkedIn: ([add your link here](https://www.linkedin.com/in/shivprasad-mugle-273062377/))
-- 📧 Email: (mugleshiv1531@gmail.com)
+##  Connect with Me
+-  LinkedIn: ([add your link here](https://www.linkedin.com/in/shivprasad-mugle-273062377/))
+-  Email: (mugleshiv1531@gmail.com)
 
 ---
 
-## 🔥 Quote
+##  Quote
 > "Consistency is more important than perfection."
 
 ---
