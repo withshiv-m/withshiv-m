@@ -1,38 +1,33 @@
-<h1 align="center">Hi 👋, I'm Shivprasad</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | 💻 Web Developer | 🌱 Open Source Learner</h3>
+<h1 align="center">Hi , I'm Shivprasad</h1>
+<h3 align="center"> Aspiring Software Engineer |  Web Developer |  Python Developer</h3>
 
 ---
 
-## 🙋‍♂️ About Me
-- 🎯 I’m currently focusing on **Web Development & Open Source**
-- 💡 Interested in **GSoC & Real World Projects**
-- 🔥 Goal: Become a **Full Stack Developer**
-- ⚡ Fun fact: I love building projects and learning new tech daily
+##  About Me
+-  I’m currently focusing on **Web Development & Open Source**
+-  Interested in **GSoC & Real World Projects**
+-  Goal: Become a **Full Stack Developer**
+-  Fun fact: I love building projects and learning new tech daily
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ### 💻 Languages
 - C
 - C++
 - Python
+- java
 
 ### 🌐 Frontend
 - HTML
 - CSS
-- JavaScript(begginer)
+- JavaScript
+- React
 
 ### ⚙️ Tools
 - Git
 - GitHub
 - VS Code
-
----
-
-## 🚀 Projects
-### 📌 Portfolio Website
-- Personal portfolio website to showcase my work
-- Tech: HTML, CSS, JavaScript
 
 ---
 
